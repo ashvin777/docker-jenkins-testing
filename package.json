@@ -2,10 +2,14 @@
   "name": "docker_web_app",
   "version": "1.0.0",
   "description": "Node.js on Docker",
-  "author": "Ashvin777 <first.last@example.com>",
+  "author": "Ashvin777 <ashvin.suthar777@gmail.com>",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashvin777/docker-jenkins-testing/"
   },
   "dependencies": {
     "express": "^4.13.3"
