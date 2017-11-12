@@ -1,5 +1,5 @@
 {
-  "name": "docker_web_app",
+  "name": "docker-jenkins-testing",
   "version": "1.0.0",
   "description": "Node.js on Docker",
   "author": "Ashvin777 <ashvin.suthar777@gmail.com>",
